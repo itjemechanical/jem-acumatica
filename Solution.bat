@@ -1,0 +1,1 @@
+"C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica.sln"

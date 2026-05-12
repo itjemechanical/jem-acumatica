@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Program Files\\Acumatica ERP\\spica\\App_Data\\Projects\\jem-acumatica\\jem-acumatica\\jem-acumatica.csproj": {}
+  },
+  "projects": {
+    "C:\\Program Files\\Acumatica ERP\\spica\\App_Data\\Projects\\jem-acumatica\\jem-acumatica\\jem-acumatica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Program Files\\Acumatica ERP\\spica\\App_Data\\Projects\\jem-acumatica\\jem-acumatica\\jem-acumatica.csproj",
+        "projectName": "jem-acumatica",
+        "projectPath": "C:\\Program Files\\Acumatica ERP\\spica\\App_Data\\Projects\\jem-acumatica\\jem-acumatica\\jem-acumatica.csproj",
+        "packagesPath": "C:\\Users\\OFFICE-E0034\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files\\Acumatica ERP\\spica\\App_Data\\Projects\\jem-acumatica\\jem-acumatica\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OFFICE-E0034\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
