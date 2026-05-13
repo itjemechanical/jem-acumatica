@@ -380,3 +380,12 @@ C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumati
 C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\obj\Debug\jem-acum.E779C2C9.Up2Date
 C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\obj\Debug\jem-acumatica.dll
 C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\obj\Debug\jem-acumatica.pdb
+C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\bin\Debug\PX.Objects.PJ.dll
+C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\bin\Debug\PX.Objects.PM.ChangeRequest.dll
+C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\bin\Debug\PX.Objects.FS.dll
+C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\bin\Debug\PX.Objects.PJ.pdb
+C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\bin\Debug\PX.Objects.PJ.xml
+C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\bin\Debug\PX.Objects.PM.ChangeRequest.pdb
+C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\bin\Debug\PX.Objects.PM.ChangeRequest.xml
+C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\bin\Debug\PX.Objects.FS.pdb
+C:\Program Files\Acumatica ERP\spica\App_Data\Projects\jem-acumatica\jem-acumatica\bin\Debug\PX.Objects.FS.xml

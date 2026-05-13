@@ -48,6 +48,28 @@
     <Reference Include="PX.Objects">
       <HintPath>..\..\..\..\Bin\PX.Objects.DLL</HintPath>
     </Reference>
+	<!-- REFERENCIAS FALTANTES -->
+	<Reference Include="PX.Data.BQL.Fluent">
+		<HintPath>..\..\..\..\Bin\PX.Data.BQL.Fluent.dll</HintPath>
+	</Reference>
+	<Reference Include="PX.LicensePolicy">
+		<HintPath>..\..\..\..\Bin\PX.LicensePolicy.dll</HintPath>
+	</Reference>
+	<Reference Include="CommonServiceLocator">
+		<HintPath>..\..\..\..\Bin\CommonServiceLocator.dll</HintPath>
+	</Reference>
+	<Reference Include="PX.CarrierService">
+		<HintPath>..\..\..\..\Bin\PX.CarrierService.dll</HintPath>
+	</Reference>
+	<Reference Include="PX.Objects.PJ">
+		<HintPath>..\..\..\..\Bin\PX.Objects.PJ.dll</HintPath>
+	</Reference>
+	<Reference Include="Swashbuckle.AspNetCore.SwaggerGen">
+		<HintPath>..\..\..\..\Bin\Swashbuckle.AspNetCore.SwaggerGen.dll</HintPath>
+	</Reference>
+	<Reference Include="PX.Api">
+		<HintPath>..\..\..\..\Bin\PX.Api.dll</HintPath>
+	</Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>

@@ -1,13 +1,14 @@
+using PX.Common;
+using PX.Data;
+using PX.Objects.CS;
+using PX.SM;
+using Swashbuckle.AspNetCore.SwaggerGen;
 using System;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using PX.Common;
-using PX.SM;
-using PX.Data;
-using PX.Objects.CS;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace PX.Objects.Common
 {
@@ -18,7 +19,7 @@ namespace PX.Objects.Common
             if (!PXAccess.FeatureInstalled<FeaturesSet.deviceHub>())
                 return;
 
-            Dictionary<PrintSettings, PXReportRequiredException> jobs = new();
+            Dictionary<PrintSettings, PXReportRequiredException> jobs = new Dictionary<PrintSettings, PXReportRequiredException>();
 
             foreach (SMPrinter printer in PXSelect<SMPrinter, Where<SMPrinter.isActive, Equal<True>>>.Select(graph))
             {
