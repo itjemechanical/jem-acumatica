@@ -55,6 +55,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="JEPOOrderLogLine.cs" />
+    <Compile Include="JEPOPlannerViewerFilter.cs" />
+    <Compile Include="JEPOPlannerViewerInq.cs" />
+    <Compile Include="POOrderEntry.cs" />
+    <Compile Include="POReceiptEntry.cs" />
+    <Compile Include="ProjectEntry.cs" />
+    <Compile Include="RequestForInformationMaint.cs" />
+    <Compile Include="SOOrderEntry.cs" />
+    <Compile Include="WikiFileMaintenance.cs" />
+    <Compile Include="DeviceHubUtility.cs" />
+    <Compile Include="ContractExtensions.cs" />
+    <Compile Include="INItemClassExtensions.cs" />
+    <Compile Include="INRegisterExtensions.cs" />
+    <Compile Include="POOrderExtensions.cs" />
+    <Compile Include="SOOrderExtensions.cs" />
+    <Compile Include="SOShipmentExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
